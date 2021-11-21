@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.c6c33147.chunk.css",
-    "main.js": "./static/js/main.7e55b15f.chunk.js",
-    "main.js.map": "./static/js/main.7e55b15f.chunk.js.map",
+    "main.css": "./static/css/main.a8a165fd.chunk.css",
+    "main.js": "./static/js/main.facb7ae5.chunk.js",
+    "main.js.map": "./static/js/main.facb7ae5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.841899d7.js",
     "runtime-main.js.map": "./static/js/runtime-main.841899d7.js.map",
     "static/js/2.fead07e7.chunk.js": "./static/js/2.fead07e7.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.b2621d9f.chunk.js": "./static/js/3.b2621d9f.chunk.js",
     "static/js/3.b2621d9f.chunk.js.map": "./static/js/3.b2621d9f.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.c6c33147.chunk.css.map": "./static/css/main.c6c33147.chunk.css.map",
+    "static/css/main.a8a165fd.chunk.css.map": "./static/css/main.a8a165fd.chunk.css.map",
     "static/js/2.fead07e7.chunk.js.LICENSE.txt": "./static/js/2.fead07e7.chunk.js.LICENSE.txt",
     "static/media/insta.eb5b8912.png": "./static/media/insta.eb5b8912.png",
     "static/media/instaAc.26957f0b.png": "./static/media/instaAc.26957f0b.png",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.841899d7.js",
     "static/js/2.fead07e7.chunk.js",
-    "static/css/main.c6c33147.chunk.css",
-    "static/js/main.7e55b15f.chunk.js"
+    "static/css/main.a8a165fd.chunk.css",
+    "static/js/main.facb7ae5.chunk.js"
   ]
 }
